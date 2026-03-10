@@ -1,7 +1,7 @@
 # Página de Biografia
 
 Este é meu primeiro projeto utilizando **HTML e CSS**.  
-Criei uma página simples de biografia onde apresento um pouco sobre mim, meus conhecimentos em programação e formas de contato.
+Criei uma página simples de biografia onde apresento um pouco sobre mim, meus conhecimentos em programação, hobbies e formas de contato.
 
 ## Tecnologias utilizadas
 - HTML

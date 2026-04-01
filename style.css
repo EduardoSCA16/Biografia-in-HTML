@@ -1,0 +1,98 @@
+body{
+    padding: 0;
+    margin: 0;
+    color: #2563EB;
+    background-color: #0A192F;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.topo{
+    background-color: #112240;
+    font-size: 25px;
+    padding: 30px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+#futuro{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hr{
+    position: absolute;
+    top: 218px;
+    width: 100%;
+}
+
+.bloco{
+    text-align: center;
+    background-color: rgb(20, 35, 65);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 1100px;
+    padding: 30px;
+    margin: 45px auto;
+    border-radius: 50px;
+}
+
+.p{
+    padding: 100px;
+    padding-bottom: 0;
+    padding-top: 10px;
+}
+
+.h3{
+    background-color: rgb(31, 69, 139);
+    color: #b5dbff;
+    padding: 5px;
+    width: 220px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.centralizar{
+    text-align: center;
+    font-size: large;
+    padding-bottom: 70px;
+}
+
+#contatos{
+    font-size: 50px;
+    padding: 40px;
+}
+
+.org_links{
+    text-align: center;
+}
+
+.link{
+    color: rgb(156, 156, 156);
+    margin: 0px 25px;
+}
+
+.link:visited{
+    color: rgb(75, 129, 190);
+}
+
+.link:hover{
+    color: red;
+}
+
+.link:active{
+    color: yellowgreen;
+}
+
+.images_logo{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.images_logo img{
+    width: 100px;
+}
+
+.voltar{
+    text-align: center;
+    font-size: large;
+    padding-top: 500px;
+}
